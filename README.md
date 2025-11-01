@@ -17,3 +17,14 @@ The system uses **Natural Language Processing (NLP)** and **cosine similarity** 
 6. **Recommendation** — Returns the top 5–10 similar movies.
 
 ---
+
+## 🧰 Tech Stack
+- **Language:** Python  
+- **Libraries:**  
+  - pandas  
+  - numpy  
+  - scikit-learn  
+  - nltk  
+  - ast  
+
+---
